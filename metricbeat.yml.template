@@ -11,4 +11,3 @@ cloud.auth: "${CLOUD_AUTH}"
 processors:
   - add_host_metadata: ~
   - add_cloud_metadata: ~
-  - add_docker_metadata: ~
